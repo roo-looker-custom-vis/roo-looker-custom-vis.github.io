@@ -1,3 +1,4 @@
+<!-- edit to force pages build -->
 ### Example Charts
 
  1. [Area Range](#area-range) – display range of values
